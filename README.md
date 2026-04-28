@@ -10,7 +10,7 @@
 
 ## About
 
-Third-year Cybersecurity student at AGH University of Science and Technology in Krakow, focused on offensive security, network defense, and the intersection of machine learning with cybersecurity. Co-founder of **KN CIPHER**, an AGH scientific club working on cryptography, AI, and security research — currently contributing to the **IDUB-funded research project** *"Applications of Post-Quantum Cryptography and Machine Learning in IoT Network Security."*
+Third-year Cybersecurity student at AGH University of Science and Technology in Krakow, focused on offensive security, network defense, and the intersection of machine learning with cybersecurity. Co-founder of **KN CIPHER**, an AGH scientific club working on cryptography, AI, and security research - currently contributing to the **IDUB-funded research project** *"Applications of Post-Quantum Cryptography and Machine Learning in IoT Network Security."*
 
 Comfortable across the offensive/defensive spectrum: I've delivered a full-scope web application penetration test on the Broken Crystals platform (STRIDE threat modeling, OWASP Top 10, manual + automated testing, CVSS-scored report with PoC exploits) and work daily with SOC tooling such as Splunk and Elastic. Looking for **internships and junior roles** in penetration testing, SOC analysis, or security engineering.
 
@@ -50,17 +50,17 @@ Comfortable across the offensive/defensive spectrum: I've delivered a full-scope
 
 ## Education & Experience
 
-**AGH University of Krakow** — *B.Eng. Cybersecurity* · 2023 – Present
+**AGH University of Krakow** - *B.Eng. Cybersecurity* · 2023 – Present
 > Coursework spanning network and system security, cryptography, secure software development, and applied machine learning.
 
-**KN CIPHER (AGH Scientific Club)** — *Co-founder* · Nov 2024 – Present
+**KN CIPHER (AGH Scientific Club)** - *Co-founder* · Nov 2024 – Present
 > Contributor to the IDUB-funded research project *"Applications of Post-Quantum Cryptography and Machine Learning in IoT Network Security."* Helping run a community of students working on hands-on cryptography, AI, and security projects.
 
 ---
 
 ## Featured Project
 
-### Web Application Penetration Test — *Broken Crystals*
+### Web Application Penetration Test - *Broken Crystals*
 End-to-end black/grey-box engagement on a deliberately vulnerable web application.
 
 - Built a **STRIDE threat model** and mapped tests to **OWASP Top 10** and the **OWASP Web Security Testing Guide (WSTG)**.
@@ -71,20 +71,20 @@ End-to-end black/grey-box engagement on a deliberately vulnerable web applicatio
 
 ## Certifications
 
-- **SOC Level 1** — TryHackMe
-- **Cyber Security 101** — TryHackMe
+- **SOC Level 1** - TryHackMe
+- **Cyber Security 101** - TryHackMe
 
 ---
 
 ## Languages
 
-`Russian — Native` · `English — B2` · `Polish — B2`
+`Russian - Native` · `English - B2` · `Polish - C2`
 
 ---
 
 ## Contact
 
-Open to internships and junior roles in **penetration testing**, **SOC / blue team**, and **security engineering** — particularly in Kraków or remote.
+Open to internships and junior roles in **penetration testing**, **SOC / blue team**, and **security engineering** - particularly in Kraków or remote.
 
 📧 **bkhmelnitskiy@student.agh.edu.pl**
 📱 **+48 517 337 274**
